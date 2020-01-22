@@ -1,1 +1,1 @@
-eslint-disable
+/* eslint-disable no-console */
